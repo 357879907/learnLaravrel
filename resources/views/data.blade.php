@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-<table border="1">
+<table border="2">
     <tr>
         <th>ID</th>
         <th>用户名</th>
